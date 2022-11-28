@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://netease-api.66619.eu.org/:match*"
+    }
+  ]
+}
